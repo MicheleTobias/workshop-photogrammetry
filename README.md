@@ -65,4 +65,13 @@ There are entire courses in how to do this step, and your process will depend on
 How do you know how to do this process?
  * Take an introductory course
  * Textbooks
- * Explore mthe academic literature for methods about air photo interpretation for your (and possibly related) systems 
+ * Explore the academic literature for methods about air photo interpretation for your (and possibly related) systems 
+ 
+ 
+# Further Resources
+
+[American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/) - academic society for imagery and GIS
+
+[#maptimeDavis workshop: Multispectral Kite Aerial Photography & Photo Processing](https://www.youtube.com/watch?v=CbotW3q_cyE&t=1s)
+
+[#maptimeDavis workshop: Getting Started with Drones in Scientific Research](https://www.youtube.com/watch?v=9JtZbhJEk8Y)
