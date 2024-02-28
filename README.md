@@ -70,7 +70,13 @@ How do you know how to do this process?
  
 # Further Resources
 
+## Organizations
 [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/) - academic society for imagery and GIS
+
+[#maptimeDavis](https://maptimedavis.github.io/)
+
+
+## Tutorials & Workshops
 
 [#maptimeDavis workshop: Multispectral Kite Aerial Photography & Photo Processing](https://www.youtube.com/watch?v=CbotW3q_cyE&t=1s)
 
