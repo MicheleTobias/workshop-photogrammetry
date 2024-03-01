@@ -3,10 +3,12 @@ This is an introductory workshop on photogrammetry.
 
 # Introduction
 
-Photogrammetry is ??????????????????
+"Photogrammetry is the art, science and technology of obtaining reliable information about physical objects and the environment through processes of recording measuring and interpreting images and patterns of electromagnetic radiant energy and other phenomena." [[ASPRS](https://www.asprs.org/organization/what-is-asprs.html)]
+
+So... photogrammetry is learning about objects or places through photographs (and/or similar data collection methods). That's it. The name sounds fancy - old school even. But on the surface, it's something you do every time you open Instagram. How we make scientific measurements is more detailed (and involves a lot of geometry), but we'll handle that aspect in a little while. And photogrammetry has only been around as long as photography, so in the grand scheme of history, it's pretty new. Modern photogrammetry is actually quite cutting edge and useful for a variety of applications. So go put away your academic robes and leather-bound books. We won't need them today.
 
 
-The outline of the workshop could easily structure an entire book, so we won't go into significant depth in a 2-hour workshop. My goal is to help you understand the major parts of the air photo workflow and learn the terminology that will allow you to continue learning on your own.
+The outline of the workshop could easily structure an entire book, so we won't go into significant depth in a 2-hour workshop. My goal is to help you understand the major parts of the modern photogrammety workflow and learn the terminology that will allow you to continue learning on your own.
 
 
 
@@ -29,14 +31,39 @@ Consider theses questions:
  * How large are the objects or phenomena you want to detect? Are you identifying trees? Maybe small shrubs? Park benches?
  * What time scale are you working with? Do you just need one point in time? When is it? Do you want to understand this question over time? How often do you need images?
  * What wavelengths will help you detect these objects or phenomena? Studies of plants often require infrared, for example.
+ * What is your budget? Can you afford to pay for data or do you need to use open or free data sources.
+ 
+Academics: now is the time to start your literature review. Understanding your target system well will help you answer these questions and also know what other people have tried before you.
  
 ## Existing Datasets
 
-Aerial photography collections
+Existing datasets have some advantages. Existing data is the only way to get imagery from the past (without a time machine). If I want to know what a site looked like 10 years ago, I cant' go back in time to collect new data, I have to consult an exisitng dataset.
 
-Satellite imagery
+Existing datasets have disadvantages. You have to work with what already exists, which means you're limited to what other people decided to collect and by the technology of the time. For example, color photography wasn't widely available until Kodak introduced Kodachrome film in 1935. I still wouldn't expect to find many color air photos from this time.
+
+There are opportunities here. When you work with older data sources, you have a chance to learn about different technologies and the history around them.
+
+
+**Aerial photography collections**
+
+Many institutions, especially academic libraries and government agencies of many levels, have collections of aerial photographs for the locations of interest to them. UC Davis has an extensive print and film collection for our local area and surrounding agricultural areas going back to the 1920s. UCSB has an online search tool for their huge air photo collection. And even the City of Davis maintains a modest collection of photos from town over time. UC holdings are searchable and accessible to affiliates and the public.  Getting access to collections can be the biggest challenge, but a polite email can be the best way to start the conversation if it's not immediately clear how to access any given collection. Be prepared that you may need to have a plan to scan or photograph the images you want before hand.
+
+**Satellite imagery**
+
+Satellite imagery is generally available for time periods after the mid-1970s. There were programs earlier than this going back to the late 1940s, but these were experimental and typically local in geographic scale. Earlier satellites produced images a coarser geographic and radiometric scales than modern satellite sensors.
+
 
 ## Collect Your Own
+
+/#maptimeDavis has literally done whole workshops on collecting your own imagery with both drones and kites, so we won't take time to go into detail on these.
+
+The advantages to collecting your own photos is that you're in control. You choose the day, the place, and the sensors. These systems are an option for small areas. These platforms can also just be fun to use. There's nothing like seeing the photos you just took from high above of the ecosystem you're currenly standing in and seeing something you didn't expect.
+
+The disadvantages are of collecting your own photos should not be ignored. (Here's where we have the serious talk.) The expense of a drone photo system is not small. Kite systems, while typically much less expensive than drones, require you to design your own system - there are no widely accepted commercial packages of hardware for kites. Depending on the platform you choose (drone, kite, balloon, etc.), you will have safety and legal restrictions to contend with. With all of these platforms, you run the risk of physical personal harm. You also need to develop the skills required to run the collection platforms. 
+
+Keep in mind that you are flying an aircraft and you are required to follow the FAA rules and restrictions that pertain to the platform you are flying. This includes tethered systems like kites and balloons.
+
+You cannot collect your own data yesterday (unless you actually collected it yesterday). There's no going back in time, so if you're collecting your own imagery, you can only collect new data now or in the future.
 
 Drone
 
@@ -48,6 +75,13 @@ Contract with an Air Photo Company
 
 Resources for data collection: Clancy & Michele's past workshops
 
+
+
+
+## Combine Existing and New Datasets
+
+You can't go back and collect done data from 1980. But you can (potentially) get air photos or satellite data from then and use it with contemporary imagery to understand change over time. It's ok to combine data from different sources. Just be aware of the limitations. You may not have the same power to detect things of small sizes in images collected by different systems.
+
 # Step 3: Processing
 
 You processing workflow should be tailored to your data needs.
@@ -56,9 +90,11 @@ Possible photo processing steps (in no particular order):
 
  * Cropping/Masking - reduce the size of your data by removing areas that aren't needed for the analysis
  * Stitching/Mosaicing - combine photos to make one continuous, larger dataset
+ * Calculating indexes - perform math on bands of your imagery to help detect objects of interest. For example, NDVI can help identify plants and NDWI can help identify water.
+ * Build 3D models - sets of air photos with overlap (even old ones) can be used to build models of the structures present in the photos
 
 
-# Step 4: Interpretation
+# Step 4: Interpretation & Measurements
 
 There are entire courses in how to do this step, and your process will depend on your question. 
 
@@ -66,14 +102,20 @@ How do you know how to do this process?
  * Take an introductory course
  * Textbooks
  * Explore the academic literature for methods about air photo interpretation for your (and possibly related) systems 
- 
+
+What are some options?
+ * Digitizing boundaries by hand on photos (heads-up digitizing)
+ * Image classification - classify pixels into groups using supervised or unsupervised methods
+ * Image segmentation - identify objects in photos, for example, cars or boats
  
 # Further Resources
 
 ## Organizations
 [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/) - academic society for imagery and GIS
 
-[#maptimeDavis](https://maptimedavis.github.io/)
+[International Society for Photogrammety and Remote Sensing (ISPRS)](https://www.isprs.org/) - academic society for imagery and GIS
+
+[#maptimeDavis](https://maptimedavis.github.io/) - check out the workshop archive for past workshops
 
 
 ## Tutorials & Workshops
