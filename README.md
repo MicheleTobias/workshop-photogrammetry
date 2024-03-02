@@ -30,6 +30,7 @@ Consider theses questions:
  * What geographic scale do you need to work at? Are you interested in a global question, something hyper local like a beach, or something in between like a city or county?
  * How large are the objects or phenomena you want to detect? Are you identifying trees? Maybe small shrubs? Park benches?
  * What time scale are you working with? Do you just need one point in time? When is it? Do you want to understand this question over time? How often do you need images?
+ * What time of day are you interested in? Or do you need data at night?
  * What wavelengths will help you detect these objects or phenomena? Studies of plants often require infrared, for example.
  * What is your budget? Can you afford to pay for data or do you need to use open or free data sources.
  
@@ -90,8 +91,8 @@ Possible photo processing steps (in no particular order):
 
  * Cropping/Masking - reduce the size of your data by removing areas that aren't needed for the analysis
  * Stitching/Mosaicing - combine photos to make one continuous, larger dataset
- * Calculating indexes - perform math on bands of your imagery to help detect objects of interest. For example, NDVI can help identify plants and NDWI can help identify water.
- * Build 3D models - sets of air photos with overlap (even old ones) can be used to build models of the structures present in the photos
+ * Calculating Indexes - perform math on bands of your imagery to help detect objects of interest. For example, NDVI can help identify plants and NDWI can help identify water.
+ * Build 3D Models - sets of air photos with overlap (even old ones) can be used to build models of the structures present in the photos
 
 
 # Step 4: Interpretation & Measurements
@@ -107,6 +108,7 @@ What are some options?
  * Digitizing boundaries by hand on photos (heads-up digitizing)
  * Image classification - classify pixels into groups using supervised or unsupervised methods
  * Image segmentation - identify objects in photos, for example, cars or boats
+ * Quantifying change over time (or distance) in some measurement
  
 # Further Resources
 
@@ -120,6 +122,14 @@ What are some options?
 
 ## Tutorials & Workshops
 
-[#maptimeDavis workshop: Multispectral Kite Aerial Photography & Photo Processing](https://www.youtube.com/watch?v=CbotW3q_cyE&t=1s)
+[#maptimeDavis Workshop: Multispectral Kite Aerial Photography & Photo Processing](https://www.youtube.com/watch?v=CbotW3q_cyE&t=1s)
 
-[#maptimeDavis workshop: Getting Started with Drones in Scientific Research](https://www.youtube.com/watch?v=9JtZbhJEk8Y)
+[#maptimeDavis Workshop: Getting Started with Drones in Scientific Research](https://www.youtube.com/watch?v=9JtZbhJEk8Y)
+
+Coming Soon: #maptimeDavis Workshop: Downloading Satellite Data from SpatioTemporal Asset Catalogs (STAC)
+
+## Books
+
+The University of California system has access to thousands of books on remote sensing. Many of them include online access. Look for general books, but also look for books and journal articles that are written specifically about the kinds of enivronments you want to work in.
+
+[Practical Handbook of Remote Sensing (Lavender and Lavender 2023)](https://search.library.ucdavis.edu/permalink/01UCD_INST/1hjlc2p/cdi_askewsholts_vlebooks_9781000862225)
