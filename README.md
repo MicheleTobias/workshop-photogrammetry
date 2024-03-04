@@ -8,13 +8,24 @@ This is an introductory workshop on photogrammetry.
 So... photogrammetry is learning about objects or places through photographs (and/or similar data collection methods). That's it. The name sounds fancy - old school even. But on the surface, it's something you do every time you open Instagram. How we make scientific measurements is more detailed (and involves a lot of geometry), but we'll handle that aspect in a little while. And photogrammetry has only been around as long as photography, so in the grand scheme of history, it's pretty new. Modern photogrammetry is actually quite cutting edge and useful for a variety of applications. So go put away your academic robes and leather-bound books. We won't need them today.
 
 
-The outline of the workshop could easily structure an entire book, so we won't go into significant depth in a 2-hour workshop. My goal is to help you understand the major parts of the modern photogrammety workflow and learn the terminology that will allow you to continue learning on your own.
+The outline of the workshop could easily structure an entire book, so we won't go into significant depth in a 2-hour workshop. My goal is to help you understand the major parts of the modern photogrammety workflow and learn the terminology that will allow you to continue learning on your own. I am coming from a focus on terrestrial remote sensing in my own, however, there are methods for investigating aquatic systems including tools for imagery and bathymetry that I can discuss generally.
 
 
 
 # Step 1: What Question Do You Want to Answer?
 
 Before you do anything else, you need to define your goals. What question do you want to answer? The goals you set for your line of questioning will form the foundation of every decision you need to make going forward. The importance of this step cannot be overstated.
+
+Consider theses questions:
+
+ * What **geographic area** do you want to investigate?
+ * What **geographic scale** do you need to work at? Are you interested in a global question, something hyper local like a beach, or something in between like a city or county?
+ * **How large are the objects or phenomena** you want to detect? Are you identifying trees? Maybe small shrubs? Park benches?
+ * What **time scale** are you working with? Do you just need one point in time? When is it? 
+ * Do you want to understand this question over time? **How often** do you need images? Are you interested in daily, weekly, yearly change? For how long? When does it **start and end**?
+ * What **time of day** are you interested in? Or do you need data at night?
+ * What **wavelengths** will help you detect these objects or phenomena? Studies of plants often require infrared, for example.
+ * What is your **budget**? Can you afford to pay for data or do you need to use open or free data sources.
 
 
  
@@ -24,16 +35,6 @@ Before you do anything else, you need to define your goals. What question do you
 
 Thinking about the question you want to answer, what properties should your photo dataset have?
 
-Consider theses questions:
-
- * What geographic area do you want to investigate? 
- * What geographic scale do you need to work at? Are you interested in a global question, something hyper local like a beach, or something in between like a city or county?
- * How large are the objects or phenomena you want to detect? Are you identifying trees? Maybe small shrubs? Park benches?
- * What time scale are you working with? Do you just need one point in time? When is it? Do you want to understand this question over time? How often do you need images?
- * What time of day are you interested in? Or do you need data at night?
- * What wavelengths will help you detect these objects or phenomena? Studies of plants often require infrared, for example.
- * What is your budget? Can you afford to pay for data or do you need to use open or free data sources.
- 
 Academics: now is the time to start your literature review. Understanding your target system well will help you answer these questions and also know what other people have tried before you.
  
 ## Existing Datasets
