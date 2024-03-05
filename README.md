@@ -16,6 +16,8 @@ The outline of the workshop could easily structure an entire book, so we won't g
 
 Before you do anything else, you need to define your goals. What question do you want to answer? The goals you set for your line of questioning will form the foundation of every decision you need to make going forward. The importance of this step cannot be overstated.
 
+Thinking about the question you want to answer, what properties should your photo dataset have?
+
 Consider theses questions:
 
  * What **geographic area** do you want to investigate?
@@ -33,7 +35,7 @@ Consider theses questions:
  
 ## Which Dataset?
 
-Thinking about the question you want to answer, what properties should your photo dataset have?
+The dataset you choose to work with should have similar properties to the dataset requirements you outlined in Step 1 where you defined the question you want to answer. The first choice you'll need to make is whether you need to work with an existing dataset, collect your own data, or do a combination of both options.  
 
 Academics: now is the time to start your literature review. Understanding your target system well will help you answer these questions and also know what other people have tried before you.
  
@@ -83,6 +85,20 @@ Resources for data collection: Clancy & Michele's past workshops
 ## Combine Existing and New Datasets
 
 You can't go back and collect done data from 1980. But you can (potentially) get air photos or satellite data from then and use it with contemporary imagery to understand change over time. It's ok to combine data from different sources. Just be aware of the limitations. You may not have the same power to detect things of small sizes in images collected by different systems.
+
+
+| Platform  | Geographic Scale | Return Interval | Wavelengths | Coverage | Considerations |
+| ------------- | ------------- | ------------- | ------------- |
+| Aerial Photography - Commercial | Moderate (depends on flying height) | Typically Single Flights  | Panchromatic (BW), Color, or IR  | Sparse | Source of historical information |
+| Aerial Photography - Drone or Kite  | Local (depends on flying height)  | You Decide  | Depends on the cameras or sensors you select, but typically RGB + IR  | Sparse | This is typically a DIY space to work in; Only useful for small geographic areas |
+| Satellites - NASA or ESA  | local to global | ~1-30 days (depends on the platform) | Depends on the platform, but some are hyperspectral | Global | Good for recent historical questions; Pixel size may be too large for detecting small objects|
+| Satellites - Commercial  | local to global | ~1-30 days (depends on the platform) | Depends on the platform, but some are hyperspectral | Global | Good for recent historical questions; Pixel size may be too large for detecting small objects; cost is a factor but look into education & research grants|
+
+<!---| Platform  | Geographic Scale | Return Interval | Wavelengths | Coverage | Considerations | -->
+
+
+
+
 
 # Step 3: Processing
 
