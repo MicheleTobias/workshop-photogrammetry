@@ -88,7 +88,7 @@ You can't go back and collect done data from 1980. But you can (potentially) get
 
 
 | Platform  | Geographic Scale | Return Interval | Wavelengths | Coverage | Considerations |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Aerial Photography - Commercial | Moderate (depends on flying height) | Typically Single Flights  | Panchromatic (BW), Color, or IR  | Sparse | Source of historical information |
 | Aerial Photography - Drone or Kite  | Local (depends on flying height)  | You Decide  | Depends on the cameras or sensors you select, but typically RGB + IR  | Sparse | This is typically a DIY space to work in; Only useful for small geographic areas |
 | Satellites - NASA or ESA  | local to global | ~1-30 days (depends on the platform) | Depends on the platform, but some are hyperspectral | Global | Good for recent historical questions; Pixel size may be too large for detecting small objects|
