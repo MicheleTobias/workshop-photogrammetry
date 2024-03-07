@@ -58,6 +58,9 @@ Many institutions, especially academic libraries and government agencies of many
 
 Satellite imagery is generally available for time periods after the mid-1970s. There were programs earlier than this going back to the late 1940s, but these were experimental and typically local in geographic scale. Earlier satellites produced images a coarser geographic and radiometric scales than modern satellite sensors.
 
+**Maps**
+If you need information from before the imagery record, consider the data available in historic maps. Maps have the bias of their creators and may not contain the information you need, but for some types of data, they can be a wealth of information. For example, the USGS Topographic Maps have a long record and are easily accessed on the [TopoView](https://ngmdb.usgs.gov/topoview/viewer/#4/39.98/-100.06) website. This collection typically show physical geography and human infrastructure. While maps are not the same as aerial imagery, the analysis steps you take with this kind of data will be similar to working with aerial imagery in many respects - scanning, digitizing areas of interest, etc.
+
 
 ## Collect Your Own
 
