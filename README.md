@@ -10,7 +10,7 @@ So... photogrammetry is learning about objects or places through photographs (an
 
 The outline of the workshop could easily structure an entire book, so we won't go into significant depth in a 2-hour workshop. My goal is to help you understand the major parts of the modern photogrammety workflow and learn the terminology that will allow you to continue learning on your own. I am coming from a focus on terrestrial remote sensing in my own, however, there are methods for investigating aquatic systems including tools for imagery and bathymetry that I can discuss generally.
 
-![Workflow diagram with four steps: 1 - research question, 2 - obtain images, 3 - image processing, 4 - interpretation and measurements](./images/WorkflowDiagram.png)
+![Workflow diagram with four steps: 1 - research question, 2 - obtain images, 3 - image processing, 4 - interpretation and measurements](images/WorkflowDiagram.png)
 
 
 
@@ -124,7 +124,22 @@ What are some options?
  * Image segmentation - identify objects in photos, for example, cars or boats
  * Quantifying change over time (or distance) in some measurement
  
+# Examples & Summary
+
+Let's look at some examples of how you might apply these steps to a couple of research scenarios: 
+
+| Step 1 | Step 2 | Step 3 | Step 4 |
+| Research Question | Obtain Images | Image Processing | Interpretation & Measurements |
+| ------------- | ------------- | ------------- | ------------- |
+| How has the size of a single beach in California changed over time? | Historic Aerial Images, Historic USGS Topo Maps, Landsat Imagery | Stitch Photos, Crop Satellite Data | Area of Beach Polygons, Transect Length |
+| What is the current extent of mangroves in Florida? | Recent Landsat Imagery | Mosaic Satellite Data | Pixel Classification through Supervised Classification |
+| How do fertilizer application methods affect plant growth in an agicultural setting? | Drone Imagery taken at different stages of crop development over fields with different treatments | Stitch Photos, Calculate NDVI | Develop threshold for NDVI, Count pixels in each NDVI category |
+
+
+ 
 # Further Resources
+
+[Expanded Workflow Diagram with Examples](Photogrammetry_Workflow_Examples.pdf)
 
 ## Organizations
 [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/) - academic society for imagery and GIS
