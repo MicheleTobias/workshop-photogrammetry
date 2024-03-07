@@ -41,7 +41,7 @@ Academics: now is the time to start your literature review. Understanding your t
  
 ## Existing Datasets
 
-Existing datasets have some advantages. Existing data is the only way to get imagery from the past (without a time machine). If I want to know what a site looked like 10 years ago, I cant' go back in time to collect new data, I have to consult an exisitng dataset.
+Existing datasets have some advantages. Existing data is the only way to get imagery from the past (without a time machine). If I want to know what a site looked like 10 years ago, I cant' go back in time to collect new data, I have to consult an existing dataset.
 
 Existing datasets have disadvantages. You have to work with what already exists, which means you're limited to what other people decided to collect and by the technology of the time. For example, color photography wasn't widely available until Kodak introduced Kodachrome film in 1935. I still wouldn't expect to find many color air photos from this time.
 
@@ -61,7 +61,7 @@ Satellite imagery is generally available for time periods after the mid-1970s. T
 
 /#maptimeDavis has literally done whole workshops on collecting your own imagery with both drones and kites, so we won't take time to go into detail on these.
 
-The advantages to collecting your own photos is that you're in control. You choose the day, the place, and the sensors. These systems are an option for small areas. These platforms can also just be fun to use. There's nothing like seeing the photos you just took from high above of the ecosystem you're currenly standing in and seeing something you didn't expect.
+The advantages to collecting your own photos is that you're in control. You choose the day, the place, and the sensors. These systems are an option for small areas. These platforms can also just be fun to use. There's nothing like seeing the photos you just took from high above of the ecosystem you're currently standing in and seeing something you didn't expect.
 
 The disadvantages are of collecting your own photos should not be ignored. (Here's where we have the serious talk.) The expense of a drone photo system is not small. Kite systems, while typically much less expensive than drones, require you to design your own system - there are no widely accepted commercial packages of hardware for kites. Depending on the platform you choose (drone, kite, balloon, etc.), you will have safety and legal restrictions to contend with. With all of these platforms, you run the risk of physical personal harm. You also need to develop the skills required to run the collection platforms. 
 
@@ -69,15 +69,13 @@ Keep in mind that you are flying an aircraft and you are required to follow the 
 
 You cannot collect your own data yesterday (unless you actually collected it yesterday). There's no going back in time, so if you're collecting your own imagery, you can only collect new data now or in the future.
 
-Drone
 
-Kite
+Options: 
 
-Balloon
-
-Contract with an Air Photo Company
-
-Resources for data collection: Clancy & Michele's past workshops
+* Drone
+* Kite
+* Balloon
+* Contract with an Air Photo Company
 
 
 
@@ -95,9 +93,6 @@ You can't go back and collect done data from 1980. But you can (potentially) get
 | Satellites - Commercial  | local to global | ~1-30 days (depends on the platform) | Depends on the platform, but some are hyperspectral | Global | Good for recent historical questions; Pixel size may be too large for detecting small objects; cost is a factor but look into education & research grants|
 
 <!---| Platform  | Geographic Scale | Return Interval | Wavelengths | Coverage | Considerations | -->
-
-
-
 
 
 # Step 3: Processing
@@ -147,6 +142,6 @@ Coming Soon: #maptimeDavis Workshop: Downloading Satellite Data from SpatioTempo
 
 ## Books
 
-The University of California system has access to thousands of books on remote sensing. Many of them include online access. Look for general books, but also look for books and journal articles that are written specifically about the kinds of enivronments you want to work in.
+The University of California system has access to thousands of books on remote sensing. Many of them include online access. Look for general books, but also look for books and journal articles that are written specifically about the kinds of environments you want to work in.
 
 [Practical Handbook of Remote Sensing (Lavender and Lavender 2023)](https://search.library.ucdavis.edu/permalink/01UCD_INST/1hjlc2p/cdi_askewsholts_vlebooks_9781000862225)
