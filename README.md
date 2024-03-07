@@ -10,6 +10,8 @@ So... photogrammetry is learning about objects or places through photographs (an
 
 The outline of the workshop could easily structure an entire book, so we won't go into significant depth in a 2-hour workshop. My goal is to help you understand the major parts of the modern photogrammety workflow and learn the terminology that will allow you to continue learning on your own. I am coming from a focus on terrestrial remote sensing in my own, however, there are methods for investigating aquatic systems including tools for imagery and bathymetry that I can discuss generally.
 
+![Workflow diagram with four steps: 1 - research question, 2 - obtain images, 3 - image processing, 4 - interpretation and measurements](./images/WorkflowDiagram.png)
+
 
 
 # Step 1: What Question Do You Want to Answer?
