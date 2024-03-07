@@ -129,8 +129,8 @@ What are some options?
 Let's look at some examples of how you might apply these steps to a couple of research scenarios: 
 
 | Step 1 | Step 2 | Step 3 | Step 4 |
-| Research Question | Obtain Images | Image Processing | Interpretation & Measurements |
 | ------------- | ------------- | ------------- | ------------- |
+| **Research Question | Obtain Images | Image Processing | Interpretation & Measurements** |
 | How has the size of a single beach in California changed over time? | Historic Aerial Images, Historic USGS Topo Maps, Landsat Imagery | Stitch Photos, Crop Satellite Data | Area of Beach Polygons, Transect Length |
 | What is the current extent of mangroves in Florida? | Recent Landsat Imagery | Mosaic Satellite Data | Pixel Classification through Supervised Classification |
 | How do fertilizer application methods affect plant growth in an agicultural setting? | Drone Imagery taken at different stages of crop development over fields with different treatments | Stitch Photos, Calculate NDVI | Develop threshold for NDVI, Count pixels in each NDVI category |
