@@ -59,7 +59,7 @@ Satellite imagery is generally available for time periods after the mid-1970s. T
 
 ## Collect Your Own
 
-/#maptimeDavis has literally done whole workshops on collecting your own imagery with both drones and kites, so we won't take time to go into detail on these.
+\#maptimeDavis has literally done whole workshops on collecting your own imagery with both drones and kites, so we won't take time to go into detail on these.
 
 The advantages to collecting your own photos is that you're in control. You choose the day, the place, and the sensors. These systems are an option for small areas. These platforms can also just be fun to use. There's nothing like seeing the photos you just took from high above of the ecosystem you're currently standing in and seeing something you didn't expect.
 
